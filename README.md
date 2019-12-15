@@ -5,7 +5,7 @@ Step1:
 Open google colab or Kaggle kernal
 
 Step2:
-Open Main.py
+Open Main.ipynb
 
 step3: 
 Run the code on Google colab
